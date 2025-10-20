@@ -23,7 +23,7 @@ The repository is organized into the following directories:
 First, clone the repository and set up the Python virtual environment.
 
 ```bash
-git clone [https://github.com/](https://github.com/)[YourUsername]/prompt-to-circuit-data.git
+git clone https://github.com/Moab-786/prompt-to-circuit-data.git
 cd prompt-to-circuit-data
 python3 -m venv venv
 source venv/bin/activate
