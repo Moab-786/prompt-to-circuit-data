@@ -1,0 +1,8 @@
+requests
+beautifulsoup4
+pandas
+notebook
+
+# Specialized Libraries
+PyGithub
+PyMuPDF
